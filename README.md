@@ -4,53 +4,57 @@ Umfassende Lernmaterialien fuer die **IHK-Abschlusspruefung Fachinformatiker/in 
 
 ## Ueberblick
 
-| | |
-|---|---|
-| **Sektionen** | 21 |
-| **Themen** | 142 |
-| **Dateien** | 433 Markdown-Dateien |
-| **Zeilen** | ~50.000+ |
+|                      |                                           |
+| -------------------- | ----------------------------------------- |
+| **Sektionen**        | 21                                        |
+| **Themen**           | 142                                       |
+| **Dateien**          | 433 Markdown-Dateien                      |
+| **Zeilen**           | ~50.000+                                  |
 | **Ausbildungsberuf** | Fachinformatiker/in Anwendungsentwicklung |
-| **Pruefungsteile** | AP1 (Bereiche 1–2) & AP2 (Bereiche 3–4) |
+| **Pruefungsteile**   | AP1 (Bereiche 1–2) & AP2 (Bereiche 3–4)   |
 
 ## Inhalt
 
 ### Bereich 1 – Einrichten eines IT-gestützten Arbeitsplatzes (AP1)
-| Sektion | Thema |
-|---------|-------|
-| `1.1` | Arbeitsaufgaben & Projektmanagement |
-| `1.2` | Kundenberatung & Kommunikation |
-| `1.3` | IT-Systeme beurteilen |
-| `1.4` | IT-Loesungen entwickeln & betreuen |
-| `1.5` | Qualitaetssicherung |
-| `1.6` | IT-Sicherheit & Datenschutz |
-| `1.7` | Leistungserbringung & Auftragsabschluss |
+
+| Sektion | Thema                                   |
+| ------- | --------------------------------------- |
+| `1.1`   | Arbeitsaufgaben & Projektmanagement     |
+| `1.2`   | Kundenberatung & Kommunikation          |
+| `1.3`   | IT-Systeme beurteilen                   |
+| `1.4`   | IT-Loesungen entwickeln & betreuen      |
+| `1.5`   | Qualitaetssicherung                     |
+| `1.6`   | IT-Sicherheit & Datenschutz             |
+| `1.7`   | Leistungserbringung & Auftragsabschluss |
 
 ### Bereich 2 – Anwendungsentwicklung (AP1)
-| Sektion | Thema |
-|---------|-------|
-| `2.1` | Kundenberatung (AE-spezifisch) |
-| `2.2` | IT-Loesungen: Debugging, Algorithmen, Datenbanken |
-| `2.3` | Qualitaetssicherung (AE-spezifisch) |
-| `2.4` | IT-Sicherheit & Datenschutz (AE-spezifisch) |
+
+| Sektion | Thema                                             |
+| ------- | ------------------------------------------------- |
+| `2.1`   | Kundenberatung (AE-spezifisch)                    |
+| `2.2`   | IT-Loesungen: Debugging, Algorithmen, Datenbanken |
+| `2.3`   | Qualitaetssicherung (AE-spezifisch)               |
+| `2.4`   | IT-Sicherheit & Datenschutz (AE-spezifisch)       |
 
 ### Bereich 3 – Fachqualifikationen Anwendungsentwicklung (AP2)
-| Sektion | Thema |
-|---------|-------|
-| `3.1` | IT-Systeme betreiben (Netzwerk, Monitoring) |
-| `3.2` | Speicherloesungen |
-| `3.3` | Softwareloesungen programmieren |
-| `3.4` | Kundenspezifische Software (OOP, SQL, UML, Patterns) |
-| `3.5` | Software-Qualitaet sicherstellen |
+
+| Sektion | Thema                                                |
+| ------- | ---------------------------------------------------- |
+| `3.1`   | IT-Systeme betreiben (Netzwerk, Monitoring)          |
+| `3.2`   | Speicherloesungen                                    |
+| `3.3`   | Softwareloesungen programmieren                      |
+| `3.4`   | Kundenspezifische Software (OOP, SQL, UML, Patterns) |
+| `3.5`   | Software-Qualitaet sicherstellen                     |
 
 ### Bereich 4 – Wirtschafts- und Sozialkunde (AP1)
-| Sektion | Thema |
-|---------|-------|
-| `4.1` | Berufsausbildung & Arbeits-/Tarifrecht |
-| `4.2` | Aufbau & Organisation des Betriebes |
-| `4.3` | Sicherheit & Gesundheitsschutz |
-| `4.4` | Umweltschutz |
-| `4.5` | Vernetztes Zusammenarbeiten |
+
+| Sektion | Thema                                  |
+| ------- | -------------------------------------- |
+| `4.1`   | Berufsausbildung & Arbeits-/Tarifrecht |
+| `4.2`   | Aufbau & Organisation des Betriebes    |
+| `4.3`   | Sicherheit & Gesundheitsschutz         |
+| `4.4`   | Umweltschutz                           |
+| `4.5`   | Vernetztes Zusammenarbeiten            |
 
 ## Dateistruktur
 
@@ -121,7 +125,8 @@ Frei zur Nutzung fuer alle, die sich auf die IHK-Pruefung vorbereiten. Teilen er
 
 ---
 
-
 ### Link zu Chatgpt chat welcher verwendet wurde um optimierte prompts für Claude opus 4.6 im Copilot chat
 
-*Erstellt auf Basis des IHK-Pruefungskatalogs – Stand 2025/2026*
+- this is the conversation [link](https://chatgpt.com/share/69bba344-e08c-8003-9435-97f5ee9b5b23)
+
+_Erstellt auf Basis des IHK-Pruefungskatalogs – Stand 2025/2026_
