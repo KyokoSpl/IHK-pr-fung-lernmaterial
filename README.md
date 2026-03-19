@@ -121,4 +121,7 @@ Frei zur Nutzung fuer alle, die sich auf die IHK-Pruefung vorbereiten. Teilen er
 
 ---
 
+
+### Link zu Chatgpt chat welcher verwendet wurde um optimierte prompts für Claude opus 4.6 im Copilot chat
+
 *Erstellt auf Basis des IHK-Pruefungskatalogs – Stand 2025/2026*
